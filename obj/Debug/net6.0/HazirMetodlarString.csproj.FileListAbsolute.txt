@@ -1,0 +1,15 @@
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\HazirMetodlarString\bin\Debug\net6.0\HazirMetodlarString.exe
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\HazirMetodlarString\bin\Debug\net6.0\HazirMetodlarString.deps.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\HazirMetodlarString\bin\Debug\net6.0\HazirMetodlarString.runtimeconfig.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\HazirMetodlarString\bin\Debug\net6.0\HazirMetodlarString.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\HazirMetodlarString\bin\Debug\net6.0\HazirMetodlarString.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\HazirMetodlarString\obj\Debug\net6.0\HazirMetodlarString.csproj.AssemblyReference.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\HazirMetodlarString\obj\Debug\net6.0\HazirMetodlarString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\HazirMetodlarString\obj\Debug\net6.0\HazirMetodlarString.AssemblyInfoInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\HazirMetodlarString\obj\Debug\net6.0\HazirMetodlarString.AssemblyInfo.cs
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\HazirMetodlarString\obj\Debug\net6.0\HazirMetodlarString.csproj.CoreCompileInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\HazirMetodlarString\obj\Debug\net6.0\HazirMetodlarString.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\HazirMetodlarString\obj\Debug\net6.0\refint\HazirMetodlarString.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\HazirMetodlarString\obj\Debug\net6.0\HazirMetodlarString.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\HazirMetodlarString\obj\Debug\net6.0\HazirMetodlarString.genruntimeconfig.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\HazirMetodlarString\obj\Debug\net6.0\ref\HazirMetodlarString.dll
